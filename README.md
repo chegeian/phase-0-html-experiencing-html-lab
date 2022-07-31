@@ -2,7 +2,8 @@
 
 ## Learning Goals
 
-- Create an ordered HTML list
+-
+ Create an ordered HTML list
 - Create an unordered HTML list
 
 ## Introduction
